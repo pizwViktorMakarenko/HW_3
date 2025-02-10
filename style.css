@@ -210,6 +210,7 @@ footer {
     padding: 26px 0;
     /* 📍 Свойство для расположения ссылки горизонтально по центру */
     display: flex;
+    justify-content: center;
     text-align: center;
 }
 
